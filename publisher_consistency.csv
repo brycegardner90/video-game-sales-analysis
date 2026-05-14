@@ -1,0 +1,21 @@
+publisher,num_games,avg_sales,best_seller,worst_seller,outlier_gap
+Rockstar Games,91,2.63,20.32,0.01,17.69
+Microsoft Studios,39,1.42,9.96,0.01,8.54
+Bethesda Softworks,103,1.08,8.88,0.01,7.8
+LucasArts,128,0.93,5.66,0.02,4.73
+EA Sports,530,0.92,11.8,0.01,10.88
+Hasbro Interactive,20,0.87,4.16,0.02,3.29
+GT Interactive,22,0.8,6.27,0.02,5.47
+Electronic Arts,803,0.8,10.94,0.01,10.14
+Activision,1017,0.71,15.09,0.01,14.38
+Microsoft Game Studios,84,0.7,9.97,0.01,9.27
+Warner Bros. Interactive Entertainment,162,0.64,3.49,0.01,2.85
+Warner Bros. Interactive,124,0.63,5.54,0.01,4.91
+EA Sports BIG,47,0.59,2.79,0.04,2.2
+Sony Computer Entertainment,547,0.57,6.74,0.01,6.17
+MTV Games,44,0.57,2.47,0.05,1.9
+2K Sports,181,0.56,3.98,0.01,3.42
+Disney Interactive Studios,189,0.55,3.14,0.01,2.59
+Namco,173,0.53,5.74,0.01,5.21
+2K Games,113,0.53,3.48,0.01,2.95
+Microsoft,33,0.52,5.12,0.01,4.6
