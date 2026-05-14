@@ -94,7 +94,7 @@ Preliminary analysis explored whether critic scores predict commercial performan
 
 ## Dashboard
 
-![Video Game Industry Analysis Dashboard](dashboard_screenshot.png)
+![Video Game Industry Analysis Dashboard](https://github.com/brycegardner90/video-game-sales-analysis/blob/main/dashboard_screenshot.png?raw=true)
 
 The final dashboard presents three visualizations on a single page:
 
